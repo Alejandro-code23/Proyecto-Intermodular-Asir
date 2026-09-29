@@ -16,3 +16,15 @@ Actualmente, la comunicación y la gestión diaria se realizan de la siguiente f
 - Los vecinos se comunican a través de un grupo de WhatsApp.
 - Las reservas de la piscina y de la pista de pádel se apuntan en una hoja en papel.
 - Los documentos (actas, facturas, presupuestos) se envían por correo electrónico o se entregan en papel.
+
+## 1.3. Problemática o necesidad
+
+La forma actual de gestionar la Comunidad de Vecinos Mirasol presenta varios problemas:
+
+- **Comunicación poco eficaz:** los avisos en papel no llegan a todos los vecinos, se pierden o se retiran antes de tiempo.
+- **Información desordenada:** en el grupo de WhatsApp se mezclan avisos importantes con conversaciones informales, y los mensajes relevantes se pierden.
+- **Reservas poco fiables:** la hoja de reservas en papel provoca solapamientos, confusiones y obliga a desplazarse para consultarla.
+- **Documentación dispersa:** las actas, facturas y presupuestos están repartidos entre correos y papeles, lo que dificulta consultarlos y reduce la transparencia.
+- **Sobrecarga del presidente:** la mayor parte de la gestión recae en una sola persona, que debe atender avisos, reservas y dudas por distintos canales.
+
+Por tanto, existe la **necesidad** de centralizar la comunicación, las reservas y la documentación de la comunidad en un único punto de acceso, fiable y disponible para todos los vecinos.
